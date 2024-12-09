@@ -21,4 +21,4 @@ tokenization＋vectorization（使用 TF-IDF 进行加权求和）得到每条�
 
 ### 总结
 
-思路和 LILAC 一模一样，但具体的实现比较简单，可以看作简化版的 LILAC，没有意义
+无监督的 llm 日志解析器范式
